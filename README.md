@@ -3,10 +3,10 @@
 ## Access to AWS environment through Event Engine 🏁
 🔗 [**Start Here**](https://dashboard.eventengine.run/login)
 
-Get your hash code here -> 
+Get your hash code here -> tinyurl.com/eksworkshopth
 
-## Serverless Datalake Workshop 
-🔗 [**Start Here**](https://www.eksworkshop.com/010_introduction/)
+## Amazon EKS Workshop
+🔗 [** Amazon EKS Workshop **](https://www.eksworkshop.com/010_introduction/)
 
 Today's Focused Workshop: 
 
