@@ -3,7 +3,6 @@
 ## Access to AWS environment through Event Engine 🏁
 🔗 [**Start Here**](https://dashboard.eventengine.run/login)
 
-🔗 [**Get your hash code here >> **](https://tinyurl.com/eksworkshopth) 
 
 ## Amazon EKS Workshop
 🔗 [** Amazon EKS Workshop **](https://www.eksworkshop.com/010_introduction/)
