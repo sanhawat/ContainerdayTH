@@ -7,6 +7,7 @@
 ## Amazon EKS Workshop
 🔗 [** Amazon EKS Workshop **](https://www.eksworkshop.com/010_introduction/)
 
+<!--
 ## Team Hash
 
 | No | Hash | Quicklink |
@@ -31,7 +32,7 @@
 | 18     | 2218-078dbf8f44-3f       | https://dashboard.eventengine.run/login?hash=2218-078dbf8f44-3f     |
 
 
-
+-->
 <!--
 
 Today's Focused Workshop: 
